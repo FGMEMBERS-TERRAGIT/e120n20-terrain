@@ -1,0 +1,5 @@
+OBJECT_BASE 4955291.btg
+OBJECT ROYN.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 122.972232 24.464991 22.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 122.984377 24.467966 13.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 122.981361 24.465532 18.4 0.00
